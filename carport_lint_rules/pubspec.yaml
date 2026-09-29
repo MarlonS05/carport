@@ -1,0 +1,7 @@
+name: carport_lint_rules
+description: Pure-Dart Carport layer import rules (shared by tests and custom_lint).
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.11.0
